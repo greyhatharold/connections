@@ -1,6 +1,6 @@
 # Mind Map Generator
 
-This project is a Mind Map Generator that uses Wikipedia data to create and visualize mind maps. It consists of several components, each responsible for different aspects of the application.
+This incomplete project is a Mind Map Generator that uses Wikipedia data to create and visualize mind maps. I hope there is some wisdom I will find in here later to justify the time it took to get this repo to function correctly.
 
 ## Files Overview
 
